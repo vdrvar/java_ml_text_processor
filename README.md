@@ -32,5 +32,17 @@ Download the JavaFX SDK from Gluon and place it in your preferred directory. Ens
 
 #### Using the Shell Script (Linux/macOS)
 1. Make the script executable:
+```bash
+chmod +x run.sh
+```
+2. Run the script:
+```bash
+./run.sh
+```
+#### Using the Batch Script (Windows)
+1. Run the batch script:
+```bash
+run.bat
+```
 
-
+This will compile the Java source files and then run the application.
