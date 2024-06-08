@@ -22,26 +22,29 @@ This project demonstrates text processing capabilities using Apache OpenNLP and 
    ```bash
    git clone https://github.com/yourusername/java_ml_text_processor.git
    cd java_ml_text_processor
+   ```
 
-   Set Up JavaFX:
+2. **Set Up JavaFX:**
+   - Download JavaFX SDK from Gluon.
+   - Configure your IDE to use the JavaFX SDK.
 
-2. **Set Up Apache OpenNLP:**
+3. **Set Up Apache OpenNLP:**
    - Download the Apache OpenNLP library from Apache OpenNLP.
    - Add the OpenNLP library to your project’s build path.
 
-3. **Download OpenNLP Models:**
+4. **Download OpenNLP Models:**
    - Tokenizer model: en-token.bin
    - Sentence detection model: en-sent.bin
    - Part-of-speech tagging model: en-pos-maxent.bin
    - Named entity recognition model: en-ner-person.bin
 
-4. **Add OpenNLP Models to Your Project:**
+5. **Add OpenNLP Models to Your Project:**
    - Place the downloaded model files in the appropriate directory within your project.
 
-5. **Run the Application:**
+6. **Run the Application:**
    - Run the Main class to start the application.
 
-6. **Usage:**
+7. **Usage:**
    - Enter text in the input area and click "Process Text" to see the results.
    - Processed results will appear in the output area.
    - Results can be exported to a file named results.txt.
