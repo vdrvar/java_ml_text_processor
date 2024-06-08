@@ -3,24 +3,10 @@
   "configurations": [
     {
       "type": "java",
-      "name": "NERExample",
-      "request": "launch",
-      "mainClass": "com.example.NERExample",
-      "projectName": "java_ml_text_processor_cfb00642"
-    },
-    {
-      "type": "java",
-      "name": "ExportResultsExample",
-      "request": "launch",
-      "mainClass": "com.example.ExportResultsExample",
-      "projectName": "java_ml_text_processor_cfb00642"
-    },
-    {
-      "type": "java",
       "name": "Launch Main",
       "request": "launch",
       "mainClass": "com.example.Main",
-      "vmArgs": "--module-path /home/vdrvar/javafx/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+      "vmArgs": "--module-path /usr/share/openjfx/lib --add-modules javafx.controls,javafx.fxml",
       "projectName": "java_ml_text_processor"
     },
     {
@@ -60,9 +46,10 @@
     },
     {
       "type": "java",
-      "name": "Launch ExportResultsExample",
+      "name": "Launch TextProcessorApp",
       "request": "launch",
-      "mainClass": "com.example.ExportResultsExample",
+      "mainClass": "com.example.TextProcessorApp",
+      "vmArgs": "--module-path /usr/share/openjfx/lib --add-modules javafx.controls,javafx.fxml -Dprism.order=sw -Dprism.verbose=true",
       "projectName": "java_ml_text_processor"
     }
   ]
