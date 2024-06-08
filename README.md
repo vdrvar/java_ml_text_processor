@@ -47,3 +47,4 @@ This project demonstrates text processing capabilities using Apache OpenNLP and 
    - Results can be exported to a file named results.txt.
 
 7. **License**
+   - This project is licensed under the MIT License.
