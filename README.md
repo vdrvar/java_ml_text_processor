@@ -20,7 +20,7 @@ This project demonstrates text processing capabilities using Apache OpenNLP and 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/java_ml_text_processor.git
+   git clone https://github.com/vdrvar/java_ml_text_processor.git
    cd java_ml_text_processor
    ```
 
