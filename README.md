@@ -26,7 +26,8 @@ cd java_ml_text_processor
 ```
 
 ### Step 2: Set Up JavaFX
-Download the JavaFX SDK from Gluon and place it in your preferred directory. Ensure the necessary environment variables are set if needed.
+Download the JavaFX SDK from [Gluon](https://gluonhq.com/products/javafx/) and place it in your preferred directory. Ensure the necessary environment variables are set if needed.
+
 
 ### Step 3: Run the Application
 
@@ -46,3 +47,35 @@ run.bat
 ```
 
 This will compile the Java source files and then run the application.
+
+## Setup Instructions
+
+## Usage
+### Input Text
+Enter the text you want to process in the input area.
+
+### Tokenize
+Click the Tokenize button to split the input text into individual tokens.
+
+### Detect Sentences
+Click the Detect Sentences button to identify and separate sentences within the input text.
+
+### POS Tagging
+Click the POS Tagging button to tag each token with its corresponding part of speech.
+
+### NER
+Click the NER button to detect and label named entities in the input text.
+
+### Export Results
+Click the Export Results button to save the processed results to a file.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [Apache OpenNLP](https://opennlp.apache.org/)
+- [JavaFX](https://openjfx.io/)
+- [SLF4J](http://www.slf4j.org/)
+
