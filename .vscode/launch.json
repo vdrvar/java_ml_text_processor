@@ -1,0 +1,69 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "NERExample",
+      "request": "launch",
+      "mainClass": "com.example.NERExample",
+      "projectName": "java_ml_text_processor_cfb00642"
+    },
+    {
+      "type": "java",
+      "name": "ExportResultsExample",
+      "request": "launch",
+      "mainClass": "com.example.ExportResultsExample",
+      "projectName": "java_ml_text_processor_cfb00642"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "com.example.Main",
+      "vmArgs": "--module-path /home/vdrvar/javafx/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml",
+      "projectName": "java_ml_text_processor"
+    },
+    {
+      "type": "java",
+      "name": "Launch HelloWorld",
+      "request": "launch",
+      "mainClass": "com.example.HelloWorld",
+      "projectName": "java_ml_text_processor"
+    },
+    {
+      "type": "java",
+      "name": "Launch TokenizerExample",
+      "request": "launch",
+      "mainClass": "com.example.TokenizerExample",
+      "projectName": "java_ml_text_processor"
+    },
+    {
+      "type": "java",
+      "name": "Launch SentenceDetectionExample",
+      "request": "launch",
+      "mainClass": "com.example.SentenceDetectionExample",
+      "projectName": "java_ml_text_processor"
+    },
+    {
+      "type": "java",
+      "name": "Launch POSTaggingExample",
+      "request": "launch",
+      "mainClass": "com.example.POSTaggingExample",
+      "projectName": "java_ml_text_processor"
+    },
+    {
+      "type": "java",
+      "name": "Launch NERExample",
+      "request": "launch",
+      "mainClass": "com.example.NERExample",
+      "projectName": "java_ml_text_processor"
+    },
+    {
+      "type": "java",
+      "name": "Launch ExportResultsExample",
+      "request": "launch",
+      "mainClass": "com.example.ExportResultsExample",
+      "projectName": "java_ml_text_processor"
+    }
+  ]
+}
