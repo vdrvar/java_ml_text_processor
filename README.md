@@ -1,4 +1,4 @@
-# java_ml_text_processor
+# Java ML Text Processor
 
 This project demonstrates text processing capabilities using Apache OpenNLP and JavaFX, featuring a simple interactive GUI for educational purposes. The application performs tokenization, sentence detection, part-of-speech tagging, and named entity recognition, showcasing basic NLP techniques with machine learning models.
 
