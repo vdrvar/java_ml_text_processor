@@ -56,22 +56,30 @@ Enter the text you want to process in the input area.
 ![image](https://github.com/vdrvar/java_ml_text_processor/assets/48907543/3350610e-2d2c-4725-9d18-2d06235e63db)
 
 
-
-
 ### Tokenize
 Click the Tokenize button to split the input text into individual tokens.
+![image](https://github.com/vdrvar/java_ml_text_processor/assets/48907543/6c4a8f04-bd4e-4631-8021-24b3f53f8d10)
+
 
 ### Detect Sentences
 Click the Detect Sentences button to identify and separate sentences within the input text.
+![image](https://github.com/vdrvar/java_ml_text_processor/assets/48907543/2c6556aa-4008-4b22-9fc0-dcce2c6378bf)
+
 
 ### POS Tagging
 Click the POS Tagging button to tag each token with its corresponding part of speech.
+![image](https://github.com/vdrvar/java_ml_text_processor/assets/48907543/db38a7ee-2416-4076-95a0-ac58507c9a74)
+
 
 ### NER
 Click the NER button to detect and label named entities in the input text.
+![image](https://github.com/vdrvar/java_ml_text_processor/assets/48907543/902c8588-7f97-404f-9416-db2c6f7252bb)
+
 
 ### Export Results
 Click the Export Results button to save the processed results to a file.
+![image](https://github.com/vdrvar/java_ml_text_processor/assets/48907543/4a9d9f3b-accb-4634-b1c7-798ec90d7ce2)
+
 
 ## License
 
