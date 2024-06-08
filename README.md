@@ -53,7 +53,8 @@ This will compile the Java source files and then run the application.
 ## Usage
 ### Input Text
 Enter the text you want to process in the input area.
-![image](https://github.com/vdrvar/java_ml_text_processor/assets/48907543/b19fa7b2-852c-42e7-99a0-956a832edd5f)
+![image](https://github.com/vdrvar/java_ml_text_processor/assets/48907543/8a0f15d3-f59e-4ea2-8291-9a276b5084af)
+
 
 
 ### Tokenize
