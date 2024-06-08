@@ -48,7 +48,6 @@ run.bat
 
 This will compile the Java source files and then run the application.
 
-## Setup Instructions
 
 ## Usage
 ### Input Text
