@@ -28,5 +28,9 @@ cd java_ml_text_processor
 ### Step 2: Set Up JavaFX
 Download the JavaFX SDK from Gluon and place it in your preferred directory. Ensure the necessary environment variables are set if needed.
 
+### Step 3: Run the Application
+
+#### Using the Shell Script (Linux/macOS)
+1. Make the script executable:
 
 
